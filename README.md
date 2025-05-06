@@ -1,8 +1,4 @@
 # AI-Powered-Fault-Detection-in-Gas-Turbine-Engines-Maintenance-in-the-U.S.-Energy-Sector-25302
-# 🚀 AI Powered Fault Detection in Gas Turbine Engines  
-### Enhancing Predictive Maintenance in the U.S. Energy Sector
-
----
 
 ## 📊 Project Overview
 
